@@ -1,6 +1,6 @@
 \# EasyVisa – Visa Approval Prediction
 
-
+**Project Summary:** [EasyVisa_Project_Summary.pdf](./EasyVisa_Project_Summary.pdf)
 
 \## Project Overview
 
