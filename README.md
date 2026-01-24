@@ -161,26 +161,16 @@ Model explainability techniques (SHAP) were used to identify key drivers of visa
 \## Repository Structure
 
 
-
-easyvisa-approval-prediction/
-
-├── README.md
-
-├── LICENSE
-
-├── Data/
-
-│   └── EasyVisa.csv
-
-├── Notebooks/
-
-│   ├── Notebook\_EasyVisa.ipynb
-
-│   └── Notebook\_EasyVisa\_Sayan.html
-
-├── Project\_Summary.pdf
-
-└── Requirements.txt
+easyvisa-approval-prediction/ 
+├── README.md 
+├── LICENSE 
+├── Data/ 
+│   └── EasyVisa.csv 
+├── Notebooks/ 
+│   ├── Notebook\_EasyVisa.ipynb 
+│   └── Notebook\_EasyVisa\_Sayan.html 
+├── Project\_Summary.pdf 
+└── Requirements.txt 
 
 ---
 
